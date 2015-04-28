@@ -21,7 +21,8 @@ This is a Perl script and requires these libraries:
 
 To run this tool, create a configuration file similar to the one below:
 
-```mifos.baseurl   = https://demo.openmf.org
+```
+mifos.baseurl   = https://demo.openmf.org
 mifos.user.id   = mifos
 mifos.password  = password
 mifos.tenant.id = default
