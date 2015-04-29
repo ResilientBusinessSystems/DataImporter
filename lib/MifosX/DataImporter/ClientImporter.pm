@@ -134,6 +134,7 @@ my @colList = (
     "Active*",
     "Submitted Date",
     "Mobile No",
+    "Date of Birth",
     "Gender"
 );
 
