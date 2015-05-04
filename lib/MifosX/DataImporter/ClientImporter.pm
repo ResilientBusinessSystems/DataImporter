@@ -6,7 +6,7 @@ use Data::Dumper;
 use JSON;
 use MifosX::DataImporter::UserAgent;
 
-my $json = JSON->new;
+my $json = JSON->new->utf8;
 
 sub _get_conf {
     my ($conf, $parm) = @_;
